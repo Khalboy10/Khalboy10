@@ -11,7 +11,7 @@ I'm a Data Science Fellow @arewadataScience academy, and also a final year stude
 *   🚀  I'm currently working on [BusinessOnly](http://BusinessOnly)
 *   🧠  I'm learning Machine learning specialization @cousera
 *   🤝  I'm open to collaborating on Time Series Forecasting projects
-*   computer I Blog on Medium, below are some of my posts:
+*   I Blog on Medium, below are some of my posts:
      * [Introduction To Machine Learning](https://medium.com/@Khalboy10/introduction-of-machine-learning-a-beginners-guide-b13392b31149)
      * [How to use numpy for efficient data manipulation and computaion](https://medium.com/@Khalboy10/how-to-use-numpy-for-efficient-data-manipulation-and-computaion-a0733d2f9da2)
      * [Getting Started with Pandas Library](https://medium.com/@Khalboy10/getting-started-with-pandas-library-35e348ba2645)
@@ -19,7 +19,8 @@ I'm a Data Science Fellow @arewadataScience academy, and also a final year stude
      * [Basic Introduction On Data Preparation](https://medium.com/@Khalboy10/basic-introduction-on-data-preparation-b8c04aa08bcf)
      * [Linear Regression in Machine Learning](https://medium.com/@Khalboy10/linear-regression-in-machine-learning-61255ed130f7)
      * [Time Series Forecasting : Introduction To ARIMA model](https://medium.com/@Khalboy10/time-series-forecasting-introduction-to-arima-model-a01b840023b9)
-*   ⚡  I enjoy watching and playing football(soccer)<a href="https://www.twitter.com/khalboy10" target="_blank" rel="noreferrer"><img
+*   ⚡  I enjoy watching and playing football(soccer)<a href="https://www.twitter.com/khalboy10" target="_blank" rel="noreferrer">
+<img
                   src="https://img.shields.io/twitter/follow/khalboy10?logo=twitter&style=for-the-badge&color=0891b2&labelColor=7c2d12"
                 /></a>### Skills 
 <p align="left">
